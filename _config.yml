@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Kaustubh Amritkar"
+author: "Kaustubh Amritkar"
+description: "University of Wisconsin-Madison"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,10 +20,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
+  - {title: Mail, icon: envelope, url: "mailto:kaustubh.amritkar@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/kaustubh-amritkar"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/kaustubh-amritkar/"}
+  - {title: Orcid, icon: orcid, url:"https://orcid.org/my-orcid?orcid=0009-0000-5270-3451"}
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
