@@ -1,6 +1,6 @@
 title: "Kaustubh Amritkar"
 author: "Kaustubh Amritkar"
-description: "University of Wisconsin-Madison"
+# description: "University of Wisconsin-Madison"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -9,8 +9,8 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: false        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_frame: false           # adds a gray frame to the site
+show_sidebar: true        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
@@ -23,7 +23,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:kaustubh.amritkar@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/kaustubh-amritkar"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/kaustubh-amritkar/"}
-  - {title: Orcid, icon: orcid, url:"https://orcid.org/my-orcid?orcid=0009-0000-5270-3451"}
+  - {title: Orcid, icon: orcid, url: "https://orcid.org/my-orcid?orcid=0009-0000-5270-3451"}
+
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
