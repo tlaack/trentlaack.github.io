@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "publications.html"}
+  - {file: "index.html", title: "Home", icon: "home"}
+  - {file: "/publications.html", title: "Publications", icon: "file-alt"}
   # - {}
   # - {file: "README.md"}
 
@@ -25,7 +25,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:kaustubh.amritkar@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/kaustubh-amritkar"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/kaustubh-amritkar/"}
-  - {title: Orcid, icon: orcid, url: "https://orcid.org/my-orcid?orcid=0009-0000-5270-3451"}
+  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=qvAYURAAAAAJ&hl=en&oi=ao"}
+  # - {title: Orcid, icon: orcid, url: "https://orcid.org/my-orcid?orcid=0009-0000-5270-3451"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
