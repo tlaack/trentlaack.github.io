@@ -5,3 +5,5 @@
 Gemfile.lock
 _site
 *.gem
+assets/CV/
+assets/img/
