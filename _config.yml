@@ -25,8 +25,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:kaustubh.amritkar@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/kaustubh-amritkar"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/kaustubh-amritkar/"}
-  - {title: X, icon: x, url: "https://x.com/Kaustubh_2797"}
-  - {title: BlueSky, icon: bluesky, url: "https://bsky.app/profile/kauamritkar.bsky.social"}
+  - {title: X, icon: twitter, url: "https://x.com/Kaustubh_2797"}
+  - {title: BlueSky, icon: globe, url: "https://bsky.app/profile/kauamritkar.bsky.social"}
   # - {title: Orcid, icon: orcid, url: "https://orcid.org/my-orcid?orcid=0009-0000-5270-3451"}
 
 comments:
