@@ -1,4 +1,5 @@
-Repository for my website: https://kaustubh-amritkar.github.io/
+Here's the repository see if I give a fork.
 
+I forking love you Kaustubh! : https://kaustubh-amritkar.github.io/
 
-It was forked from this [repository](https://github.com/niklasbuschmann/contrast).
+Kaustubh forked it from this [repository](https://github.com/niklasbuschmann/contrast).
