@@ -1,4 +1,4 @@
-Here's the repository see if I give a fork.
+Here's the repository! Check it out! Or don't see if I give a fork.
 
 I forking love you Kaustubh! : https://kaustubh-amritkar.github.io/
 
